@@ -6,7 +6,7 @@ This README explains the full pipeline used in the provided script, from preproc
 
 ---
 ## Results Produced : 
-![pipeline output](
+![pipeline output](output)
 
 ## 1) Dataset & Splits
 
