@@ -5,6 +5,8 @@ This README explains the full pipeline used in the provided script, from preproc
 > Pipeline components: **TensorFlow/Keras** (decoder + training), **Hugging Face** (XLM‑R encoder + tokenizers), **datasets** (IITB EN–HI), **tokenizers** (fast BPE for Hindi).
 
 ---
+## Results Produced : 
+![pipeline output](
 
 ## 1) Dataset & Splits
 
